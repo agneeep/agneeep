@@ -4,12 +4,12 @@ I'm an MSc Computer Science student at Queen Mary University of London and a Tec
 
 I transitioned into computer science to build scalable solutions, and I love engineering robust backends, integrating complex APIs, and writing asynchronous code to process real-time data.
 
-### 🛠️ Tech Stack & Architecture
+### Tech Stack & Architecture
 - **Languages:** Python (asyncio, OOP, Pandas, NumPy), SQL, JavaScript 
 - **Architecture & Concepts:** RESTful APIs, Event-Driven Architecture, Fault Tolerance, Asynchronous Programming, BLE/IoT Integration 
 - **Tools & Environments:** Git/GitHub, VSCode, Relational Databases, Jupyter 
 
-### 🚀 Featured Engineering Projects
+### Featured Engineering Projects
 
 * **Physiologically Adaptive IoT Backend**
   * *Tech: Python, asyncio, BLE, IoT*
@@ -23,6 +23,6 @@ I transitioned into computer science to build scalable solutions, and I love eng
   * *Tech: Python, Web Development, API Integration*
   * Built and shipped a Python web application that ingests, normalizes, and aggregates fragmented APIs from Eventbrite, Luma, and Dice into a unified, single-feed architecture.
 
-### 📫 Let's Connect
+### Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/agnese-picchio-819258195/)
 - Reach out via email for opportunities related to Software Engineering, Backend Development, and Python programming :)
