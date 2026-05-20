@@ -25,4 +25,4 @@ I transitioned into computer science to build scalable solutions, and I love eng
 
 ### 📫 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/agnese-picchio-819258195/)
-- Reach out via email for opportunities related to Software Engineering, Backend Development, and Python p
+- Reach out via email for opportunities related to Software Engineering, Backend Development, and Python programming :)
